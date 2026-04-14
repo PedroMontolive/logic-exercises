@@ -310,25 +310,25 @@ O mais difícil da lista — deixa por último.
 
 ## 📋 Cronograma
 
-> Início: 17/03/2025. Ritmo de 1 exercício por dia — pode pular um dia ou dois sem culpa,
-> só retoma de onde parou. O prazo é flexível, o progresso não precisa ser linear.
+> Ritmo flexível — 1 exercício por vez, sem data fixa. Pode pular um dia ou dois sem culpa,
+> só retoma de onde parou. O progresso não precisa ser linear.
 
 ---
 
-### Semana 1 — Básico absoluto `(17/03 → 24/03)`
+### Semana 1 — Básico absoluto
 
 ```
-17/03 (seg)  →  01. fizzbuzz
-18/03 (ter)  →  02. reverse-string
-19/03 (qua)  →  03. count-vowels
-20/03 (qui)  →  04. palindrome-check
-21/03 (sex)  →  05. sum-digits
-22/03 (sáb)  →  06. min-max-array
-23/03 (dom)  →  07. celsius-to-fahrenheit
-24/03 (seg)  →  08. count-duplicates
+01. fizzbuzz
+02. reverse-string
+03. count-vowels
+04. palindrome-check
+05. sum-digits
+06. min-max-array
+07. celsius-to-fahrenheit
+08. count-duplicates
 ```
 
-- [ ]   1. fizzbuzz
+- [✅]   1. fizzbuzz
 - [ ]   2. reverse-string
 - [ ]   3. count-vowels
 - [ ]   4. palindrome-check
@@ -339,15 +339,15 @@ O mais difícil da lista — deixa por último.
 
 ---
 
-### Semana 2 — Strings `(25/03 → 31/03)`
+### Semana 2 — Strings
 
 ```
-25/03 (ter)  →  09. anagram-check
-26/03 (qua)  →  10. word-frequency
-27/03 (qui)  →  11. caesar-cipher
-28/03 (sex)  →  12. title-case
-29/03 (sáb)  →  13. compress-string
-30/03 (dom)  →  14. longest-word
+09. anagram-check
+10. word-frequency
+11. caesar-cipher
+12. title-case
+13. compress-string
+14. longest-word
 ```
 
 - [ ]   9. anagram-check
@@ -359,16 +359,16 @@ O mais difícil da lista — deixa por último.
 
 ---
 
-### Semana 3 — Arrays e listas `(01/04 → 08/04)`
+### Semana 3 — Arrays e listas
 
 ```
-01/04 (ter)  →  15. two-sum
-02/04 (qua)  →  16. remove-duplicates
-03/04 (qui)  →  17. flatten-array
-04/04 (sex)  →  18. rotate-array
-05/04 (sáb)  →  19. chunk-array
-06/04 (dom)  →  20. intersection
-07/04 (seg)  →  21. group-by
+15. two-sum
+16. remove-duplicates
+17. flatten-array
+18. rotate-array
+19. chunk-array
+20. intersection
+21. group-by
 ```
 
 - [ ]   15. two-sum
@@ -381,14 +381,14 @@ O mais difícil da lista — deixa por último.
 
 ---
 
-### Semana 4 — Recursão `(08/04 → 13/04)`
+### Semana 4 — Recursão
 
 ```
-08/04 (ter)  →  22. factorial
-09/04 (qua)  →  23. fibonacci
-10/04 (qui)  →  24. sum-nested
-11/04 (sex)  →  25. power
-12/04 (sáb)  →  26. binary-search-recursive
+22. factorial
+23. fibonacci
+24. sum-nested
+25. power
+26. binary-search-recursive
 ```
 
 - [ ]   22. factorial
@@ -399,14 +399,14 @@ O mais difícil da lista — deixa por último.
 
 ---
 
-### Semana 5 — Ordenação `(14/04 → 19/04)`
+### Semana 5 — Ordenação
 
 ```
-14/04 (seg)  →  27. bubble-sort
-15/04 (ter)  →  28. selection-sort
-16/04 (qua)  →  29. insertion-sort
-17/04 (qui)  →  30. merge-sort
-18/04 (sex)  →  31. counting-sort
+27. bubble-sort
+28. selection-sort
+29. insertion-sort
+30. merge-sort
+31. counting-sort
 ```
 
 - [ ]   27. bubble-sort
@@ -417,14 +417,14 @@ O mais difícil da lista — deixa por último.
 
 ---
 
-### Semana 6 — Estruturas de dados `(21/04 → 27/04)`
+### Semana 6 — Estruturas de dados
 
 ```
-21/04 (seg)  →  32. stack
-22/04 (ter)  →  33. queue
-23/04 (qua)  →  34. linked-list
-24/04 (qui)  →  35. binary-search-tree
-25/04 (sex)  →  36. lru-cache  ← pode spilhar pro fim de semana
+32. stack
+33. queue
+34. linked-list
+35. binary-search-tree
+36. lru-cache
 ```
 
 - [ ]   32. stack
