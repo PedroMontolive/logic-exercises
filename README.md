@@ -329,9 +329,9 @@ O mais difícil da lista — deixa por último.
 ```
 
 - [✅]   1. fizzbuzz
-- [ ]   2. reverse-string
-- [ ]   3. count-vowels
-- [ ]   4. palindrome-check
+- [✅]   2. reverse-string
+- [✅]   3. count-vowels
+- [✅]   4. palindrome-check
 - [ ]   5. sum-digits
 - [ ]   6. min-max-array
 - [ ]   7. celsius-to-fahrenheit
